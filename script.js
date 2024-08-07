@@ -15,11 +15,11 @@ const perguntas = [
             },
             {
                 texto: "Socias"
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                afirmação: "Quis saber como usar IA no seu dia a dia."
             },
             {
                 texto: "Política "
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                afirmação: "Quis saber como usar IA no seu dia a dia."
             },
         ],   
     },
@@ -28,7 +28,7 @@ const perguntas = [
         alternativas: [
             {
                 texto:"Reduzir ás taxas de mortalidade intantil"
-                afirmacao: " Ao reduzir a taxa, estiver se o risco de um nascido. Vivo morrer antes de chegar a um ano de vida"
+                afirmação: " Ao reduzir a taxa, estiver se o risco de um nascido. Vivo morrer antes de chegar a um ano de vida"
             },
             {
                 texto: "Garantir o acesso a serviços essenciais",
